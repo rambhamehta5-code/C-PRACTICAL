@@ -1,0 +1,12 @@
+// experiment 9:- program to find even and odd numbers
+#include <stdio.h>
+int main() {
+    int n;
+    scanf("%d", &n);
+    if (n % 2 == 0)
+        printf("Even");
+    else
+        printf("Odd");
+    return 0;
+}
+// made by RAMBHA MEHTA erp :- 11122
